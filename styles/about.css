@@ -1,0 +1,19 @@
+*{
+    background-color: azure;
+}
+.title{
+    display: flex;
+    margin: 0px 100px;
+}
+.title-description{
+    text-align: center;
+    padding-top: 70px;
+}
+.ground{
+    display: flex;
+    margin: 0px 130px;
+}
+.ground-description{
+    text-align: center;
+    padding-top: 70px;
+}
