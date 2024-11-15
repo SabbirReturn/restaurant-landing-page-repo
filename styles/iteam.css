@@ -1,0 +1,48 @@
+*{
+    background-color:burlywood;
+}
+.iteam-title{
+    text-align: center;
+    color: rgb(85, 90, 88);
+}
+.image{
+    display: flex;
+    margin-top: 40px;
+}
+.description{
+    display: flex;
+    text-align: center;
+    margin-right: 100px;
+}
+.black-coffee-description{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin-right: 2px;
+    margin-left: 25px;
+    width: 1000px;
+    height: 200px;
+}
+.burger-description{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin-right: 2px;
+    margin-left: 75px;
+    width: 1000px;
+    height: 200px;
+}
+.pasta-description{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin-right: 2px;
+    margin-left: 55px;
+    width: 1000px;
+    height: 200px;
+}
+.milk-coffee-description{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin-right: 2px;
+    margin-left: 55px;
+    width: 1000px;
+    height: 200px;
+}
