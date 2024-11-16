@@ -5,3 +5,39 @@
     margin: 0px 30px;
     text-align: center;
 }
+.form-description{
+    display: flex;
+}
+.sign-image{
+    margin-top: 30PX;
+    padding-left: 100PX;
+}
+.figure-caption{
+    padding-left: 30px;
+}
+.form-part{
+    margin-top: 40px;
+    margin-left: 200px;
+    text-align: center;
+}
+input{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.sign-btn{
+    background-color:rgb(230, 177, 177);
+    color: rgb(51, 55, 58);
+    width: 120px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.footer{
+    display: flex;
+    margin-left: 60px;
+}
+
